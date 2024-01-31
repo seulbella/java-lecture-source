@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="21804800-8a0c-4857-87fc-4b738c79a42c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../project01-polymorphism-game.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../project01-polymorphism-game/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../project01-polymorphism-game/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../project01-polymorphism-game/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../project01-polymorphism-game/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../project01-polymorphism-game/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../project01-polymorphism-game/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../project01-polymorphism-game/project01-polymorphism-game.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../project01-polymorphism-game/src/com/ohgiraffers/project01/polymorphism/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../project01-polymorphism-game/src/com/ohgiraffers/project01/polymorphism/Attack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../project01-polymorphism-game/src/com/ohgiraffers/project01/polymorphism/Bow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../project01-polymorphism-game/src/com/ohgiraffers/project01/polymorphism/MainApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../project01-polymorphism-game/src/com/ohgiraffers/project01/polymorphism/Motion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../project01-polymorphism-game/src/com/ohgiraffers/project01/polymorphism/Probability.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../project01-polymorphism-game/src/com/ohgiraffers/project01/polymorphism/Sword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../project01-polymorphism-game/src/com/ohgiraffers/project01/polymorphism/Weapon.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2b4Sd68Tpx2dj9VKf5RtgcmXfT4" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/lecture/01_java/workspace/chap11-collection-lecture-source/src/com/ohgiraffers/section04&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21804800-8a0c-4857-87fc-4b738c79a42c" name="Changes" comment="" />
+      <created>1705472941710</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705472941710</updated>
+    </task>
+    <servers />
+  </component>
+</project>
